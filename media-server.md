@@ -26,6 +26,7 @@
 4. You can scroll to the show you are searching for, or you can search for it.
 
 ![search](/pics/jellyfin-search.PNG)
+
 5. You can see the show and the episodes from there.
 
 ![call the midwife](/pics/jellyfin-call-the-midwife.PNG)
