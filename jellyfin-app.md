@@ -6,7 +6,7 @@ _This assumes that you already have Tailscale installed and connected to my Tail
 
 1. Open the JellyFin app.
 
-2. Type in this URL `http//iptv-server:8096` and hit connect after you successfully type it in. Make sure to double check all of the punctuation.
+2. Type in this URL `http://iptv-server:8096` and hit connect after you successfully type it in. Make sure to double check all of the punctuation.
 
 ![URL](pics/jellyfin-app-url.PNG)
 
