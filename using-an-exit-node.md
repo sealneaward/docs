@@ -33,15 +33,15 @@ If not, then read [this](./tailscale-app.md).
 
 2. Open the Tailscale app and click on the exit node settings.
 
-![exit-node-disabled](pics\Disabled.png)
+![exit-node-disabled](pics/Disabled.png)
 
 3. Select the `iptv-server` exit node from the list.
 
-![exit-node-list](pics\1000033678.png)
+![exit-node-list](pics/1000033678.png)
 
 4. Your app should look like this now.
 
-![exit-node-enabled](pics\1000033679.png)
+![exit-node-enabled](pics/1000033679.png)
 
 5. Verify your current IP address by going to [this](https://whatismyipaddress.com/) site. Is should be different from what was previously recorded in step 1.
 
@@ -51,28 +51,28 @@ If not, then read [this](./tailscale-app.md).
 
 7. Disable the exit node. This will only slow your internet connection down on your device if it is left enabled.
 
-![exit-node-disabled](pics\1000033677.png)
+![exit-node-disabled](pics/1000033677.png)
 
 ## Windows
 
 1. The steps are roughly the same, except this is done in a small process window at the bottom of your screen with the `^` sign.
 
-![process-menu](pics\process.PNG)
+![process-menu](pics/process.PNG)
 
 2. Right click the Tailscale process below.
 
-![select-process](pics\tailscale-process-select.PNG)
+![select-process](pics/tailscale-process-select.PNG)
 
 3. Select the `iptv-server` exit node.
 
-![exit-node](pics\windows-tailscale.PNG)
+![exit-node](pics/windows-tailscale.PNG)
 
 4. You will see this if an exit node is enabled.
 
-![exit-node-enabled](pics\exit-node-enabled-windows.PNG)
+![exit-node-enabled](pics/exit-node-enabled-windows.PNG)
 
 5. Repeat the steps in the [Netflix Specific Steps](#netflix-specific-steps).
 
 6. Disable the exit node by selecting none in the list. This will only slow your internet connection down on your device if it is left enabled.
 
-![exit-node-disabled](pics\disable-exit-node.PNG)
+![exit-node-disabled](pics/disable-exit-node.PNG)
